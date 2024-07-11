@@ -1,0 +1,12 @@
+*{
+    background-color: #d2eff9;
+    color :rgb(75, 75, 75)
+}
+
+button{
+    border: 1px solid rgb(249, 205, 205);
+}
+
+Link{
+    border: 1px solid rgb(249, 205, 205);
+}

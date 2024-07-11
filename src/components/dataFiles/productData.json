@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "a898",
+      "brand_name": "x",
+      "model_name": "o",
+      "cover_image": "o",
+      "images": [],
+      "price": "o",
+      "stock": "op",
+      "color": [],
+      "storage": [],
+      "ram": [],
+      "processor": "",
+      "camera_rear": "",
+      "camera_front": "",
+      "display": "",
+      "battery": "",
+      "rating": "p",
+      "rating_count": ""
+    }
+  ]
+}
